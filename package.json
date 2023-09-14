@@ -4,7 +4,7 @@
   "description": "creating mern blog",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon",
     "start":"node index.js"
   },
   "author": "Pranshu Sahu",
